@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "pandas-data-algorithms",
+      "title": "Data Algorithms with pandas",
+      "description": "Use pandas to filter, sort, and summarize tabular data with real-world algorithms.",
+      "path": "assignments/pandas-data-algorithms",
+      "dueDate": "2026-07-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }

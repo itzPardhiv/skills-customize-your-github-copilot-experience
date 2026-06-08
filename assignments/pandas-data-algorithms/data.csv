@@ -1,0 +1,11 @@
+id,name,category,price,quantity
+1,Blue Widget,Widgets,25.50,10
+2,Red Widget,Widgets,22.00,5
+3,Green Gizmo,Gizmos,15.75,12
+4,Yellow Gizmo,Gizmos,18.20,8
+5,Orange Doohickey,Accessories,12.50,20
+6,Purple Doohickey,Accessories,14.00,15
+7,Small Widget,Widgets,10.00,30
+8,Large Gizmo,Gizmos,25.00,7
+9,Premium Accessory,Accessories,40.00,4
+10,Basic Widget,Widgets,8.75,50
